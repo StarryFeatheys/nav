@@ -3,7 +3,7 @@
     <img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo.svg" width="130" />
   </a>
   <br />
-  <b>发现导航</b>
+  <b>人间漫途</b>
   <p align="center">一个纯静态、支持SEO、在线编辑的强大导航网站，希望您会喜欢</p>
   <p align="center">内置收录多达 800+ 优质网站， 助您工作、学习和生活</p>
   <p align="center">
@@ -188,18 +188,6 @@ yarn start
 yarn build
 ```
 
-## 支持
 
-项目于 2018 年到至今一直坚持维护和开源, 经过 N 次的迭代与优化, 如果项目能帮到您是我的荣幸。
-
-您可以请作者喝杯咖啡，继续战斗下去
-
-<img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/img/32.png" width="600">
-
-## LICENSE
-
-For commercial sites, themes, projects, and applications, keep your source code private/proprietary by purchasing a [Commercial License](https://official.nav3.cn/pricing).
-
-Licensed under the GNU General Public License 3.0 for compatible open source projects and non-commercial use.
 
 Copyright 2024-present xiejiahe
