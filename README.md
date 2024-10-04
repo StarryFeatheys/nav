@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://nav3.cn/?g">
+  <a href="https://starryfeatheys.github.io/nav/#/app?page=0&id=0&q=">
     <img src="https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo.svg" width="130" />
   </a>
   <br />
